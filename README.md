@@ -96,3 +96,4 @@ After the data was recalculated, the following changes occurred:
 - % passing Math dropped at Thomas High School
 - % passing Reading dropped at Thomas High School
 - % Overall passing dropped at Thomas High School
+- For the district summary the Average Math Score has decreased slightly but the other metrics remained the same because of a small portion of the replaced data
